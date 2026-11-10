@@ -20,12 +20,11 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ### ans=np.linalg.norm(mat,1)
 ### norm_of_matrix="{:2f}".format(ans)
 ### print(norm_of_matrix)
-### ```
+
 
 
 
 ### 2-Norm of a Matrix
-### ```
 ### Developed by: keerthi.V
 ### RegisterNumber: 26010139
 ### import os
@@ -35,12 +34,11 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ### ans=np.linalg.norm(mat,2)
 ### norm_of_matrix="{:.2f}".format(ans)
 ### print(norm_of_matrix)
-### ```
+
 
 
 
 ### 3-Infinity Norm of a Matrix
-### ```
 ### Developed by: keerthi.V
 ### RegisterNumber: 26010139
 ### import os
